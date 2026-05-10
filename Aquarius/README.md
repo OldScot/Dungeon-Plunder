@@ -3,7 +3,7 @@
 The aquarius version works with the base model but also supports the expansion module, enhanced sound, and joysticks.
 
 Welcome Screen:
-![Welcome Screen](ScreenShots\Welcome.png)
+![Welcome Screen](ScreenShots/Welcome.png)
 
 Instructions:
 ![Instructions 1](ScreenShots/Instructions1.png)
