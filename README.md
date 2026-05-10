@@ -19,7 +19,7 @@ Ports under consideration include:
 + NEC PC-8001
 + Fujitsu FM-7
 
-[Aquarius Welcome Screen](Aquarius/ScreenShots/Welcome.png)
+![Aquarius Welcome Screen](Aquarius/ScreenShots/Welcome.png)
 
-[ColecoVision Welcome Screen](ColecoVision/ScreenShots/Welcome.png)
+![ColecoVision Welcome Screen](ColecoVision/ScreenShots/Welcome.png)
 
