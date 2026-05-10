@@ -2,9 +2,9 @@
 
 Dungeon Plunder is a turn based, strategy game, for one or two players. It was protyped and developed on the Colour Maximite 2 retro computer in Basic, before being rewritten in Z80 assembly language and ported to various vintage machines. Versions include:
 + Colour Maximite 2
-+ Mattel Aquarius
++ Mattel Aquarius (Aquarius/README.md)
 + Aquarius Plus
-+ Colecovision / Adam
++ Colecovision / Adam (ColecoVision/README.md)
 + MSX
 + Nabu
 + TRS-80 with MikroKolor-80
