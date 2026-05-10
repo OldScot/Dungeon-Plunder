@@ -11,10 +11,10 @@ Uses the MikroKolor-80 graphics (TMS9918) and cassette bit-banged audio.
 ![Test System](Photos/TRS80M1MikroKolor.jpg)
 \
 \
-Program: ![Program](Releases/dpmikro.cmd)
+Program: [Program](Releases/dpmikro.cmd)
 \
 \
-Disk (NewDos80): ![Disk](Releases/DPMIKRO80.hfe)
+Disk (NewDos80): [Disk](Releases/DPMIKRO80.hfe)
 \
 \
 

@@ -12,10 +12,10 @@ Uses the CHROMATrs graphics (TMS9918), CHROMATrs analog audio, and CHROMATrs joy
 ![Test System](Photos/LNW80CHROMATrs.jpg)
 \
 \
-Program: ![Program](Releases/DPChrom6.cmd)
+Program: [Program](Releases/DPChrom6.cmd)
 \
 \
-Disk (NewDos80): ![Disk](Releases/DPMIKR2.hfe)
+Disk (NewDos80): [Disk](Releases/DPMIKR2.hfe)
 \
 \
 
