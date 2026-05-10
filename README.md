@@ -7,8 +7,8 @@ Dungeon Plunder is a turn based, strategy game, for one or two players. It was p
 + [Colecovision / Adam](ColecoVision/README.md)
 + MSX
 + Nabu
-+ TRS-80 with MikroKolor-80
-+ TRS-80 with CHROMATrs 
++ [TRS-80 with MikroKolor-80](TRS80MikroKolor/README.md)
++ [TRS-80 with CHROMATrs](TRS80CHROMATrs/README.md)
 + Sega HC-3000
 + Sega SG-1000
 + Triumph Adler Royal Alphatronic PC
