@@ -1,0 +1,46 @@
+@'WELCOME.TXT
+@D        Welcome to Dungeon Plunder!!
+
+Dungeon Plunder is a turn based game for one or two players. It has three variations:
+  Surprise - Stumble upon a dungeon with no supplies (no torch), and avoid the ghosts! 
+  Explore  - Avoid the ghosts and monsters and return with all the treasures.
+  Excavate - Travel deeper and deeper into the dungeon amassing treasure for points.
+
+The goal of Dungeon Plunder is to find treasure and carry it back to the entrance
+without running into ghosts or monsters. At full health you can make 8 moves per turn.
+Every battle with a ghost or monster reduces your health and the moves you can make on
+your turn. After the player's turns the monsters and ghosts get their turns. Monsters
+and ghosts get one move per turn but ghosts can move diagonally and go through walls.
+
+Dungeons include:
+  Doors     Your dungeon entrance. Return treasures here. Player is safe at their door!
+  Walls     A player's turn ends if they run into a wall.
+  Treasure  Heavy! Players have fewer moves when carrying treasures.
+            All battles with ghosts or monsters are fatal if carrying treasure!
+  Ghosts    Guard treasure, awake when you get too close, will pursue you forever if you
+            take their treasure, and depart when their treasure is removed.
+  Monsters  May guard treasure, awake when you get too close, will pursue unless
+            distance too great, will eventually go back to sleep (can't be seen when
+            asleep!), and never die.
+  Torches   Torches run out of fuel after a number of turns. Pickup a torch to refuel.
+            Without light you only find walls by running into them.
+  Journals  Left by earlier explorers (deceased) they contain maps of the dungeon. 
+  Potions   Healing potions will restore a player's health.
+
+Keyboard, Numchuks and joysticks are supported. The keys used are:
+  Player One   Arrows    Movement. (Also numpad or H,K,U,M.)
+               P         Pick up (treasure, torch, journal, potion). (Also J.)
+               Enter     End turn. (Also Y.)
+  Player Two   A,W,D,X   Movement.
+               S         Pick up (treasure, torch, journal, potion).
+               Q         End turn.
+  General      F1        Sound on/off.
+               F2        Speech on/off.
+
+@D             Happy Plundering!
+
+Dungeon Plunder and Colour Maximite 2 version by C Squared Software, 2023.
+
+@D      Press Enter to Enter the Dungeon
+
+                               (F1 to Customize Screen.)
