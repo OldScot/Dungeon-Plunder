@@ -17,7 +17,7 @@ Options:\
 \
 \
 Gameplay:\
-![Gameplay](ScreenShots/Gameplay.png)
+![Gameplay](ScreenShots/GamePlay.png)
 \
 \
 Easter Egg - Sound Composer:\
