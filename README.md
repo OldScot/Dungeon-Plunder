@@ -21,14 +21,22 @@ Ports under consideration include:
 + Fujitsu FM-7
 \
 \
+Aquarius\
 ![Aquarius Welcome Screen](Aquarius/ScreenShots/Welcome.png)
 \
 \
+Aquarius Plus\
+![Aquarius Plus Welcome Screen](AquariusPlus/ScreenShots/Welcome.png)
+\
+\
+ColecoVision - MSX - Nabu - SegaHC3000 - SegaSG1000 - TRS-80
 ![ColecoVision Welcome Screen](ColecoVision/ScreenShots/Welcome.png)
 \
 \
+AlphaTronic - German Version\
 ![AlphaTronic Welcome Screen](RoyalAlphatronicPC/Photos/Welcome.jpg)
 \
 \
+Colour Maximite \
 ![Colour Maximite Welcome Screen](ColourMaximite2/capture/welcome.png)
 
