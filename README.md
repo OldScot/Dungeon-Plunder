@@ -27,5 +27,8 @@ Ports under consideration include:
 ![ColecoVision Welcome Screen](ColecoVision/ScreenShots/Welcome.png)
 \
 \
+![AlphaTronic Welcome Screen](RoyalAlphaTronicPC/Photos/Welcome.jpg)
+\
+\
 ![Colour Maximite Welcome Screen](ColourMaximite2/capture/welcome.png)
 
