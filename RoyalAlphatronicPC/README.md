@@ -29,12 +29,4 @@ Options:\
 \
 Gameplay:\
 ![Gameplay](Photos/Gameplay.jpg)
-\\
-\
-\
-Program (English): [Program](Releases/dpalphaE.bin)
-\
-\
-Program (German): [Program](Releases/dpalphaG.bin)
-\
 \
