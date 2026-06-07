@@ -13,22 +13,22 @@ Dungeon Plunder is a turn based, strategy game, for one or two players. It was p
 + [Triumph Adler Royal Alphatronic PC](RoyalAlphatronicPC/README.md)
 \
 \
-Ports in progress include:
+Ports in progress include:\
 + Sord M5
 + Sega SG-1000
 \
 \
-Ports under consideration include:
+Ports under consideration include:\
 + CoCo 3
 + NEC PC-8001
 + Fujitsu FM-7
 \
 \
 Vintage Computer Festival Midwest 2025!\
-Demonstrating Dungeon Plunder on the Mattel Aquarius, ColecoVision, Trs-80 Model 1 w MikroKolor-80, National SF-2000 (MSX1), and Nabu.
-Setup Complete![VCF Setup](VCFMidwest/Photos/IMG%2020250912%2001437530%20CLP.jpg)\
-Show![VCF Show](VCFMidwest/Photos/IMG%2020250914%2000092315%20CLP.jpg)\
-(Note: Colecovision showing game 'Monster Tank Invasion'.)
+Demonstrating Dungeon Plunder on the Mattel Aquarius, ColecoVision, Trs-80 Model 1 w MikroKolor-80, National SF-2000 (MSX1), and Nabu.\
+Show Setup Complete![VCF Setup](VCFMidwest/Photos/IMG%2020250912%2001437530%20CLP.jpg)\
+During Show![VCF Show](VCFMidwest/Photos/IMG%2020250914%2000092315%20CLP.jpg)\
+(Note: Colecovision showing game 'Monster Tank Invasion' above.)
 \
 \
 Aquarius\
