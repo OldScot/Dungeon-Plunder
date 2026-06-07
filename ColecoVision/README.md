@@ -31,3 +31,7 @@ Easter Egg - Colour Tester:\
 ![Sound Composer](ScreenShots/ColourTester.png)
 \
 \
+Available at:\
+[8 Bit Milli Games](https://www.8bitmilligames.com/product/dungeon-plunder-colecovision)\
+[8 Bit Milli Games](https://www.8bitmilligames.com/product/dungeon-plunder-colecovision-rom)
+\
