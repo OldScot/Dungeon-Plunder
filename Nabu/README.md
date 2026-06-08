@@ -11,31 +11,31 @@ Demo Computer:\
 \
 \
 NABU Launch:\
-![Local Source](Photos/LocalSource.jpg)
-![Local Source](Photos/LocalSource2.jpg)
+![Local Source](ScreenShots/LocalSource.png)
+![Local Source](ScreenShots/LocalSource2.png)
 \
 \
 Welcome Screen:\
-![Welcome Screen](Photos/Welcome.jpg)
+![Welcome Screen](ScreenShots/Welcome.png)
 \
 \
 Instructions:\
-![Instructions 1](Photos/Instructions1.jpg)
-![Instructions 2](Photos/Instructions2.jpg)
-![Instructions 3](Photos/Instructions3.jpg)
+![Instructions 1](ScreenShots/Instructions1.png)
+![Instructions 2](ScreenShots/Instructions2.png)
+![Instructions 3](ScreenShots/Instructions3.png)
 \
 \
 Options:\
-![Options](Photos/Options.jpg)
+![Options](ScreenShots/Options.png)
 \
 \
 Gameplay:\
-![Gameplay](Photos/Gameplay.jpg)
+![Gameplay](ScreenShots/Play.png)
 \
 \
 Internet Adapter Setup:\
-![Setup 1](Photos/InternetAdapter.png)
-![Setup 2](Photos/SourceFolder.png)
+![Setup 1](ScreenShots/InternetAdapter.png)
+![Setup 2](ScreenShots/SourceFolder.png)
 \
 \
 Release: [Binary](Releases/DungeonPlunder.nabu)
