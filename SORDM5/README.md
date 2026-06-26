@@ -53,7 +53,7 @@ The flexicard:
 ![Flexicard](ScreenShots/Flexicard.jpg)
 \
 Note: The flexicard was built using these instructions.\
-![Flexicard Instructions](https://github.com/dlabi/sordm5-flexicard)
+[Flexicard Instructions](https://github.com/dlabi/sordm5-flexicard)
 
 
 
