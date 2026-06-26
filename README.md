@@ -7,6 +7,7 @@ Dungeon Plunder is a turn based, strategy game, for one or two players. It was p
 + [Colecovision / Adam](ColecoVision/README.md)
 + MSX
 + [Nabu](Nabu/README.md)
++ [SORD M5](SORDM5/README.md)
 + [TRS-80 with MikroKolor-80](TRS80MikroKolor/README.md)
 + [TRS-80 with CHROMATrs](TRS80CHROMATrs/README.md)
 + Sega HC-3000
@@ -14,7 +15,6 @@ Dungeon Plunder is a turn based, strategy game, for one or two players. It was p
 \
 \
 Ports in progress include:
-+ Sord M5
 + Sega SG-1000
 \
 \
@@ -39,7 +39,7 @@ Aquarius Plus\
 ![Aquarius Plus Welcome Screen](AquariusPlus/ScreenShots/Welcome.png)
 \
 \
-ColecoVision - MSX - Nabu - SegaHC3000 - SegaSG1000 - TRS-80
+ColecoVision - MSX - Nabu - SegaHC3000 - SegaSG1000 - SordM5 - TRS-80
 ![ColecoVision Welcome Screen](ColecoVision/ScreenShots/Welcome.png)
 \
 \

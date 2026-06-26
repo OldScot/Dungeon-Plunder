@@ -24,11 +24,11 @@ Easter Egg - Sound Composer:\
 \
 \
 Easter Egg - Controller Tester:\
-![Sound Composer](ScreenShots/ControllerTester.png)
+![Controller Tester](ScreenShots/ControllerTester.png)
 \
 \
 Easter Egg - Colour Tester:\
-![Sound Composer](ScreenShots/ColourTester.png)
+![Colour Tester](ScreenShots/ColourTester.png)
 \
 \
 Available at:\
