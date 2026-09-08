@@ -16,11 +16,11 @@ Dungeon Plunder is a turn based, strategy game, for one or two players. It was p
 \
 Ports in progress include:
 + Sega SG-1000
++ NEC PC-8001
 \
 \
 Ports under consideration include:
 + CoCo 3
-+ NEC PC-8001
 + Fujitsu FM-7
 \
 \
@@ -49,4 +49,8 @@ AlphaTronic - German Version\
 \
 Colour Maximite \
 ![Colour Maximite Welcome Screen](ColourMaximite2/capture/welcome.png)
+\
+\
+Email: cpower2software@gmail.com
+
 
