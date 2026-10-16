@@ -7,6 +7,7 @@ Dungeon Plunder is a turn based, strategy game, for one or two players. It was p
 + [Colecovision / Adam](ColecoVision/README.md)
 + MSX
 + [Nabu](Nabu/README.md)
++ [NEC PC-8001](NECPC8001/README.md)
 + [SORD M5](SORDM5/README.md)
 + [TRS-80 with MikroKolor-80](TRS80MikroKolor/README.md)
 + [TRS-80 with CHROMATrs](TRS80CHROMATrs/README.md)
@@ -16,12 +17,16 @@ Dungeon Plunder is a turn based, strategy game, for one or two players. It was p
 \
 Ports in progress include:
 + Sega SG-1000
-+ NEC PC-8001
 \
 \
 Ports under consideration include:
 + CoCo 3
 + Fujitsu FM-7
+\
+\
+Vintage Computer Festival Midwest 2025!\
+Demonstrating Dungeon Plunder on the LNW-80 w CHROMATrs, Triumph Adler Alphatronic PC-8, Sega SC-3000, Sord M5, and NEC PC-8001.\
+Show Setup Complete![VCF Setup](VCFMidwest/Photos/IMG%2020260912%2000084545%20CLP.jpg)\
 \
 \
 Vintage Computer Festival Midwest 2025!\
@@ -49,6 +54,10 @@ AlphaTronic - German Version\
 \
 Colour Maximite \
 ![Colour Maximite Welcome Screen](ColourMaximite2/capture/welcome.png)
+\
+\
+NEC PC-8001 \
+![NEC PC-8001 Welcome Screen](NECPC8001/Photos/Welcome.jpg)
 \
 \
 Email: cpower2software@gmail.com
