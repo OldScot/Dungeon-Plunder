@@ -24,7 +24,7 @@ Ports under consideration include:
 + Fujitsu FM-7
 \
 \
-Vintage Computer Festival Midwest 2025!\
+Vintage Computer Festival Midwest 2026!\
 Demonstrating Dungeon Plunder on the LNW-80 w CHROMATrs, Triumph Adler Alphatronic PC-8, Sega SC-3000, Sord M5, and NEC PC-8001.\
 Show Setup Complete![VCF Setup](VCFMidwest/Photos/IMG%2020260912%2000084545%20CLP.jpg)\
 \
