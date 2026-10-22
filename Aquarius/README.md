@@ -24,5 +24,9 @@ Easter Egg - Sound Composer:\
 ![Sound Composer](ScreenShots/SoundComposer.png)
 \
 \
+Review by TJ Ferreira:\
+[Youtube review](https://www.youtube.com/watch?v=tYHKbbR1JrM)
+\
+\
 Available at:\
 [8 Bit Milli Games - Binary](https://www.8bitmilligames.com/product/dungeon-plunder-aquarius-rom)
