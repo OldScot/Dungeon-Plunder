@@ -30,3 +30,10 @@ Options:\
 Gameplay:\
 ![Gameplay](Photos/Gameplay.jpg)
 \
+\
+Classic Computing 2026, Celle, Germany.\
+Jürgen Wich demonstrating Dungeon Plunder on the Triumph Adler Alphatronic PC.\
+Classic Computing 2026 Demo![Classic Computing 2026](Photos/IMG_20261011_134628534.jpg)\
+[CC2026 in English](https://youtu.be/AFQWB5P_sC4?t=386)\
+[CC2026 in Deutsch](https://www.youtube.com/watch?v=tx9PPumDHLQ&t=385s)
+
