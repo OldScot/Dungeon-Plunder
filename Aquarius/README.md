@@ -25,7 +25,7 @@ Easter Egg - Sound Composer:\
 \
 \
 Review by TJ Ferreira:\
-![Youtube review](ScreenShots/TJ.png)[(Youtube)](https://www.youtube.com/watch?v=tYHKbbR1JrM)
+[![Youtube review](ScreenShots/TJ.png)](https://www.youtube.com/watch?v=tYHKbbR1JrM)
 \
 \
 [Youtube review](https://www.youtube.com/watch?v=tYHKbbR1JrM)
