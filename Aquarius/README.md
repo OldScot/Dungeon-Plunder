@@ -24,11 +24,8 @@ Easter Egg - Sound Composer:\
 ![Sound Composer](ScreenShots/SoundComposer.png)
 \
 \
-Review by TJ Ferreira:\
+Review by TJ Ferreira: (click for video)\
 [![Youtube review](ScreenShots/TJ.png)](https://www.youtube.com/watch?v=tYHKbbR1JrM)
-\
-\
-[Youtube review](https://www.youtube.com/watch?v=tYHKbbR1JrM)
 \
 \
 Available at:\
