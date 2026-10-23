@@ -24,6 +24,13 @@ Ports under consideration include:
 + Fujitsu FM-7
 \
 \
+Classic Computing 2026, Celle, Germany.\
+Jürgen Wich demonstrating Dungeon Plunder on the Triumph Adler Alphatronic PC.\
+Classic Computing 2026 Demo![Classic Computing 2026](RoyalAlphatronicPC/Photos/IMG_20261011_134628534.jpg)\
+[CC2026 in English](https://youtu.be/AFQWB5P_sC4?t=386)\
+[CC2026 in Deutsch](https://www.youtube.com/watch?v=tx9PPumDHLQ&t=385s)
+\
+\
 Vintage Computer Festival Midwest 2026!\
 Demonstrating Dungeon Plunder on the LNW-80 w CHROMATrs, Triumph Adler Alphatronic PC-8, Sega SC-3000, Sord M5, and NEC PC-8001.\
 Show Setup Complete![VCF Setup](VCFMidwest/Photos/IMG%2020260912%2000084545%20CLP.jpg)\
